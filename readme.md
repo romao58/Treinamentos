@@ -4,5 +4,7 @@ Este *repositório* tem o objetivo de **compartilhamento** entre as pessoas. Aju
 
 Agora temos um teste de pull.
 
+Foco em Machine Learning e Data Science.
+
 Grato pela colaboração!
 *Romão*
