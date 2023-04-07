@@ -1,6 +1,8 @@
 ## Boas vindas!
 
-Este *repositÛrio* tem o objetivo de **compartilhamento** entre as pessoas. Ajudem meu projeto inserindo novas funcionalidades. Isto vai ajudar muito na colaboraÁ„o entr as pessoas. perfeito.
+Este *reposit√≥rio* tem o objetivo de **compartilhamento** entre as pessoas. Ajudem meu projeto inserindo novas funcionalidades. Isto vai ajudar muito na colabora√ß√£o entr as pessoas. perfeito.
 
-Grato pela colaboraÁ„o!
-*Rom„o*
+Agora temos um teste de pull.
+
+Grato pela colabora√ß√£o!
+*Rom√£o*
